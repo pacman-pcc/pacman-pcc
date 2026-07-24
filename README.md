@@ -1,2 +1,2 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pacman-pcc&layout=donut&langs_count=6&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=6&theme=monokai)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pacman-pcc&repo=anuraghazra/github-readme-stats&description_lines_count=1&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pacman-pcc&repo=pacman-pcc/Lova-lang&description_lines_count=1&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
