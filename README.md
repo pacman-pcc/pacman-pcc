@@ -1,4 +1,2 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pacman-pcc&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=nightowl)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pacman-pcc&langs_count=5&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=8&theme=nightowl)
-
-# =_=
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pacman-pcc&layout=donut&langs_count=6&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=6&theme=monokai)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pacman-pcc&repo=anuraghazra/github-readme-stats&description_lines_count=1&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
